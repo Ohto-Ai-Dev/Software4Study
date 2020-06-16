@@ -21,6 +21,7 @@
 - [ffmpeg-shared](./development/ffmpeg-4.2.2-win64-shared.zip?raw=true)
 - [EasyX](./development/EasyX_20190529(beta).exe?raw=true)
 - [DOSBox](./development/DOSBox0.74-3-win32-installer.exe?raw=true)
+- [MSVBCRT](./development/MSVBCRT.AIO%202019.05.21.x32.exe)
 
 ## 娛樂
 
