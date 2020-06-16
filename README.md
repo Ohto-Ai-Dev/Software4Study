@@ -34,7 +34,7 @@
 
 ## 工具
 
-- [DeskPins](./tool/DeskPins%201.30 setup.exe?raw=true)
+- [DeskPins](./tool/DeskPins%201.30%20setup.exe?raw=true)
 - [DirectUI Demo](./tool/DirectUI%20Demo%20Setup%203.2.0.3776.exe?raw=true)
 - [DLL Export Viewer](./tool/DllExportViewerSetup.exe?raw=true)
 - [Everything](./tool/Everything-1.4.1.935.x86-Setup.exe?raw=true)
@@ -47,10 +47,10 @@
 - [K-Lite](./tool/K-Lite_Codec_Pack_1550_Standard.exe?raw=true)
 - [MUIEditor](./tool/MUIEditor_2018070401.zip?raw=true)
 - [navicat](./tool/navicat.zip?raw=true)
-- [nginx](./tool/nginx 1.7.11.3 Gryphon.zip?raw=true)
+- [nginx](./tool/nginx%201.7.11.3%20Gryphon.zip?raw=true)
 - [nmap](./tool/nmap-7.80-setup.exe?raw=true)
 - [PotPlayer](./tool/PotPlayerSetup64.exe?raw=true)
-- [PYG密码学综合工具](./tool/PYG密码学综合工具 v5.0.0.5.7z?raw=true)
+- [PYG密码学综合工具](./tool/PYG密码学综合工具%20v5.0.0.5.7z?raw=true)
 - [QuickLook](./tool/QuickLook-3.6.7.msi?raw=true)
 - [ScreenToGif](./tool/ScreenToGif.exe?raw=true)
 - [SD Card Formatter](./tool/SD%20Card Formatter%205.0.1%20Setup.exe?raw=true)
