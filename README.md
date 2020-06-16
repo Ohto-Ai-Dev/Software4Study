@@ -4,7 +4,7 @@
 
 ## 系統清理
 
-- [進程截殺器](./clean/BugCode_taskkill_1_1_2_8.exe)
+- [進程截殺器](./clean/BugCode_taskkill_1_1_2_8.exe?raw=true)
 - [CleanMyPC](./clean/CleanMyPC.zip)
 
 ## 開發相關
