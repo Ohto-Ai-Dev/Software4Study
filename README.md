@@ -38,5 +38,5 @@
 - [7-zip](./work/7z1902-x64.exe)
 - [Chrome](./work/83.0.4103.97_chrome_installer_64.exe)
 - [Bandizip](./work/BANDIZIP6.26-SETUP.exe)
-- [Firefox](./work/Firefox Installer.exe)
+- [Firefox](./work/Firefox%20Installer.exe)
 - [MS-office](./work/Setup.Def.zh-CN_HomeStudentRetail_0a0ae0ab-8ea2-4c16-8d49-a3d63d804d82_TX_SG_storeid_CFQ7TTC0K5FC_Platform_def_.exe)
