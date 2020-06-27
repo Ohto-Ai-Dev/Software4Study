@@ -17,6 +17,7 @@
 - [python-3.8](./development/python-3.8.2-amd64.exe?raw=true)
 - [Sublime](./development/Sublime.Text.3.Build.3065.Windows.64bit.CracKed.By.Hmily.LCG.zip?raw=true)
 - [JRE](./development/jre-8u221-windows-x64.exe?raw=true)
+- [jd-gui](./development/jd-gui.exe)
 - [ffmpeg-dev](./development/ffmpeg-4.2.2-win64-dev.zip?raw=true)
 - [ffmpeg-shared](./development/ffmpeg-4.2.2-win64-shared.zip?raw=true)
 - [EasyX](./development/EasyX_20190529(beta).exe?raw=true)
